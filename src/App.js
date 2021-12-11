@@ -19,14 +19,21 @@ function App() {
     let today = new Date()
     let thisDate = today.getDate()
     let thisMonth = today.getMonth() + 1
-    if (data.day === thisDate && data.month === thisMonth) {
-      return (
-        <BdayCrad
+    return (
+      data.day === thisDate && data.month === thisMonth ? 
+      <BdayCrad
         key={data.id}
         {...data}
-        />
-      )
-    }
+        /> : ""
+    )
+    // if (data.day === thisDate && data.month === thisMonth) {
+    //   return (
+    //     <BdayCrad
+    //     key={data.id}
+    //     {...data}
+    //     />
+    //   )
+    // }
   })
 
   return (
