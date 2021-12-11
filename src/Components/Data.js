@@ -108,6 +108,36 @@ let Data = [
         year: 2000,
         insta: "https://www.instagram.com/its_me_akhil_45/",
         whtsp: "https://wa.me/918943684583"
+    },
+    {
+        id: "12",
+        name: "Nahas",
+        img: "https://github.com/hello-world-ttj/MCA/blob/main/Nahas.jpeg?raw=true",
+        day: 13,
+        month: 12,
+        year: 2000,
+        insta: "https://www.instagram.com/_i_am_nahas/",
+        whtsp: "https://wa.me/917025094262"
+    },
+    {
+        id: "13",
+        name: "Ameer",
+        img: "",
+        day: 17,
+        month: 1,
+        year: 2000,
+        insta: "https://www.instagram.com/ameer_4_2/",
+        whtsp: "https://wa.me/919745476784"
+    },
+    {
+        id: "14",
+        name: "Akhil",
+        img: "https://github.com/hello-world-ttj/MCA/blob/main/AkhilS.jpeg?raw=true",
+        day: 2,
+        month: 12,
+        year: 2000,
+        insta: "https://www.instagram.com/akhil.suresh.__/",
+        whtsp: "https://wa.me/919605274910"
     }
 ]
 

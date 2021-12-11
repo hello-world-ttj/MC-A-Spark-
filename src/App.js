@@ -26,14 +26,6 @@ function App() {
         {...data}
         /> : ""
     )
-    // if (data.day === thisDate && data.month === thisMonth) {
-    //   return (
-    //     <BdayCrad
-    //     key={data.id}
-    //     {...data}
-    //     />
-    //   )
-    // }
   })
 
   return (
