@@ -158,6 +158,56 @@ let Data = [
         year: 1999,
         insta: "https://www.instagram.com/melvin_thomzz/",
         whtsp: "https://wa.me/917902968636"
+    },
+    {
+        id: "17",
+        name: "Sambhu Muralidharan",
+        img: "",
+        day: 22,
+        month: 10,
+        year: 1996,
+        insta: "https://www.instagram.com/the_mind_catcher__/",
+        whtsp: "https://wa.me/918281763143"
+    },
+    {
+        id: "18",
+        name: "Sandhra Murali M",
+        img: "",
+        day: 10,
+        month: 11,
+        year: 2000,
+        insta: "https://www.instagram.com/lime_.lght/",
+        whtsp: "https://wa.me/918606578487"
+    },
+    {
+        id: "19",
+        name: "Ananthu R Nair",
+        img: "",
+        day: 19,
+        month: 9,
+        year: 2000,
+        insta: "https://www.instagram.com/mojo_b0y/",
+        whtsp: "https://wa.me/919946779289"
+    },
+    {
+        id: "20",
+        name: "Amala Joseph",
+        img: "",
+        day: 30,
+        month: 11,
+        year: 1999,
+        insta: "https://www.instagram.com/_h_e_c_a_t_e_13/",
+        whtsp: "https://wa.me/917902408329"
+    },
+    {
+        id: "21",
+        name: "Megha Manoj",
+        img: "",
+        day: 27,
+        month: 12,
+        year: 2000,
+        insta: "https://www.instagram.com/_megha_manoj___/",
+        whtsp: "https://wa.me/918157809128"
     }
 ]
 
