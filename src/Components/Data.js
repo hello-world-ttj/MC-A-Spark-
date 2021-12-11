@@ -32,7 +32,7 @@ let Data = [
     {
         id: "4",
         name: "Anaswara S",
-        img: "",
+        img: "https://github.com/hello-world-ttj/MCA/blob/main/Anaswara.jpeg?raw=true",
         day: 14,
         month: 6,
         year: 2000,
@@ -98,6 +98,16 @@ let Data = [
         year: 2000,
         insta: "https://www.instagram.com/mr_printo_007/",
         whtsp: "https://wa.me/917012175260"
+    },
+    {
+        id: "11",
+        name: "Akhil Krishna S",
+        img: "https://github.com/hello-world-ttj/MCA/blob/main/Akhil.jpeg?raw=true",
+        day: 17,
+        month: 11,
+        year: 2000,
+        insta: "https://www.instagram.com/its_me_akhil_45/",
+        whtsp: "https://wa.me/918943684583"
     }
 ]
 
