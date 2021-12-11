@@ -1,38 +1,113 @@
-.App {
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'M PLUS 1 Code', sans-serif;
+}
+
+.Header {
+  height: 6vh;
+  width: 100%;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Header--title {
+  font-size: 25px;
+  padding-top: 5px;
+  font-weight: 800;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.Main--container, .Bday--container{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
 
-.App-link {
-  color: #61dafb;
+.Main {
+  margin: 20px;
+  text-align: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Bday--card {
+  margin: 20px;
+  text-align: center;
+  background: url(./Components/bg/pale-176.png);
+  background-position: center;
+  background-size: 80%;
+}
+
+.Wish img {
+  height: 80px;
+  padding: 0;
+}
+
+.box {
+  color: #D8E3E7;
+  background-color: #132C33;
+  font-size: 20px;
+}
+
+.Card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 200px;
+  margin-top: 20px;
+  padding: 25px;
+}
+
+.B--card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 200px;
+  margin-top: 20px;
+}
+
+.Card--img {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  border-radius: 100%;
+  margin: auto;
+}
+
+.Img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.Card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.Container {
+  padding-top: 15px;
+}
+
+a {
+  color: #000;
+}
+
+.Icon {
+  font-size: 30px;
+  margin: 5px 10px;
+  cursor: pointer;
+}
+
+.Whtsp:hover {
+  color: #25d366;
+}
+
+.Insta:hover {
+  color: #C13584;
+}
+
+.Footer {
+  text-align: center;
+  color: #132C33;
 }

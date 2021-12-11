@@ -1,25 +1,49 @@
-import logo from './logo.svg';
-import './App.css';
+import './App.css'
+import Header from './Components/Header'
+import Data from './Components/Data'
+import Main from './Components/Main'
+import BdayCrad from './Components/BdayCrad'
+import Footer from './Components/Footer'
 
 function App() {
+  const studentDatas = Data.map(data => {
+    return (
+        <Main
+        key={data.id}
+        {...data}
+        />
+    )
+  })
+
+  const birthDay = Data.map(data => {
+    let today = new Date()
+    let thisDate = today.getDate()
+    let thisMonth = today.getMonth() + 1
+    if (data.day === thisDate && data.month === thisMonth) {
+      return (
+        <BdayCrad
+        key={data.id}
+        {...data}
+        />
+      )
+    }
+  })
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header/>
+      <div className="Bday--container">
+        {birthDay}
+      </div>
+      <hr />
+      <div className="Main--container">
+        {studentDatas}
+      </div>
+      <Footer />
     </div>
   );
 }
 
 export default App;
+
+
