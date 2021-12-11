@@ -162,7 +162,7 @@ let Data = [
     {
         id: "17",
         name: "Sambhu Muralidharan",
-        img: "",
+        img: "https://github.com/hello-world-ttj/MCA/blob/main/Sambhu.jpeg?raw=true",
         day: 22,
         month: 10,
         year: 1996,
@@ -172,7 +172,7 @@ let Data = [
     {
         id: "18",
         name: "Sandhra Murali M",
-        img: "",
+        img: "https://github.com/hello-world-ttj/MCA/blob/main/Sandhra.jpeg?raw=true",
         day: 10,
         month: 11,
         year: 2000,
@@ -182,7 +182,7 @@ let Data = [
     {
         id: "19",
         name: "Ananthu R Nair",
-        img: "",
+        img: "https://github.com/hello-world-ttj/MCA/blob/main/Ananthu.jpeg?raw=true",
         day: 19,
         month: 9,
         year: 2000,
@@ -192,7 +192,7 @@ let Data = [
     {
         id: "20",
         name: "Amala Joseph",
-        img: "",
+        img: "https://github.com/hello-world-ttj/MCA/blob/main/Amala.jpeg?raw=true",
         day: 30,
         month: 11,
         year: 1999,
@@ -202,7 +202,7 @@ let Data = [
     {
         id: "21",
         name: "Megha Manoj",
-        img: "",
+        img: "https://github.com/hello-world-ttj/MCA/blob/main/Megha.jpeg?raw=true",
         day: 27,
         month: 12,
         year: 2000,
