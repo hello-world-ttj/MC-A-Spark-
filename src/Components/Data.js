@@ -2,7 +2,7 @@ let Data = [
     {
         id: "001",
         name: "Abhimanyu RK",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Abhimanyu.jpeg?raw=true",
+        img: "images/Abhimanyu.jpeg",
         day: 28,
         month: 7,
         year: 1998,
@@ -12,7 +12,7 @@ let Data = [
     {
         id: "1",
         name: "Adithyan S",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Adithyan.jpeg?raw=true",
+        img: "images/Adithyan.jpeg",
         day: 13,
         month: 8,
         year: 2000,
@@ -22,7 +22,7 @@ let Data = [
     {
         id: "2",
         name: "Aiswarya P Nair",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Aiswarya.jpeg?raw=true",
+        img: "images/Aiswarya.jpeg",
         day: 17,
         month: 4,
         year: 2001,
@@ -32,7 +32,7 @@ let Data = [
     {
         id: "3",
         name: "Akhil Krishna S",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Akhil.jpeg?raw=true",
+        img: "images/Akhil.jpeg",
         day: 17,
         month: 11,
         year: 2000,
@@ -42,7 +42,7 @@ let Data = [
     {
         id: "4",
         name: "Akhil Suresh",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/AkhilS.jpeg?raw=true",
+        img: "images/AkhilS.jpeg",
         day: 2,
         month: 12,
         year: 2000,
@@ -52,7 +52,7 @@ let Data = [
     {
         id: "5",
         name: "Akhila A",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Akhila.jpeg?raw=true",
+        img: "images/Akhila.jpeg",
         day: 9,
         month: 11,
         year: 1999,
@@ -62,7 +62,7 @@ let Data = [
     {
         id: "6",
         name: "Aleena Susan Biju",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Aleena.jpeg?raw=true",
+        img: "images/Aleena.jpeg",
         day: 20,
         month: 3,
         year: 2001,
@@ -72,7 +72,7 @@ let Data = [
     {
         id: "8",
         name: "Amala Joseph",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Amala.jpeg?raw=true",
+        img: "images/Amala.jpeg",
         day: 30,
         month: 11,
         year: 1999,
@@ -80,9 +80,9 @@ let Data = [
         whtsp: "https://wa.me/917902408329"
     },
     {
-        id: "013",
+        id: "002",
         name: "Ameer Shaji",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Ameer.jpeg?raw=true",
+        img: "images/Ameer.jpeg",
         day: 17,
         month: 1,
         year: 2000,
@@ -92,7 +92,7 @@ let Data = [
     {
         id: "10",
         name: "Ananthu R Nair",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Ananthu.jpeg?raw=true",
+        img: "images/Ananthu.jpeg",
         day: 19,
         month: 9,
         year: 2000,
@@ -102,7 +102,7 @@ let Data = [
     {
         id: "11",
         name: "Anaswara S",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Anaswara.jpeg?raw=true",
+        img: "images/Anaswara.jpeg",
         day: 14,
         month: 6,
         year: 2000,
@@ -112,7 +112,7 @@ let Data = [
     {
         id: "12",
         name: "Anjali J P",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Anjali.jpeg?raw=true",
+        img: "images/Anjali.jpeg",
         day: 31,
         month: 3,
         year: 2000,
@@ -122,7 +122,7 @@ let Data = [
     {
         id: "14",
         name: "Aswathi P Raj",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Aswathi.jpg?raw=true",
+        img: "images/Aswathi.jpg",
         day: 16,
         month: 1,
         year: 2001,
@@ -132,7 +132,7 @@ let Data = [
     {
         id: "16",
         name: "Aswin Asok",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Aswin.jpeg?raw=true",
+        img: "images/Aswin.jpeg",
         day: 28,
         month: 3,
         year: 1998,
@@ -142,7 +142,7 @@ let Data = [
     {
         id: "18",
         name: "Avinash Unni",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Avinash.jpeg?raw=true",
+        img: "images/Avinash.jpeg",
         day: 4,
         month: 5,
         year: 2000,
@@ -152,7 +152,7 @@ let Data = [
     {
         id: "21",
         name: "Devi Babu",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Devi.jpeg?raw=true",
+        img: "images/Devi.jpeg",
         day: 7,
         month: 10,
         year: 2000,
@@ -162,7 +162,7 @@ let Data = [
     {
         id: "22",
         name: "Devika S Nair",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/devika.jpeg?raw=true",
+        img: "images/Devika.jpeg",
         day: 1,
         month: 8,
         year: 2000,
@@ -170,9 +170,19 @@ let Data = [
         whtsp: "https://wa.me/917558989603"
     },
     {
+        id: "25",
+        name: "Harish S Nair",
+        img: "images/Harish.jpeg",
+        day: 1,
+        month: 12,
+        year: 1998,
+        insta: "https://www.instagram.com/harishs_nair/",
+        whtsp: "https://wa.me/919447005782"
+    },
+    {
         id: "29",
         name: "Joel Reji Simon",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Joel.jpeg?raw=true",
+        img: "images/Joel.jpeg",
         day: 1,
         month: 5,
         year: 1998,
@@ -180,9 +190,19 @@ let Data = [
         whtsp: "https://wa.me/919895566812"
     },
     {
+        id: "31",
+        name: "Krishnapriya S R",
+        img: "images/Krishnapriya.jpg",
+        day: 14,
+        month: 3,
+        year: 2000,
+        insta: "",
+        whtsp: "https://wa.me/918281802654"
+    },
+    {
         id: "32",
         name: "Leomon T Benson",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Leomon.jpeg?raw=true",
+        img: "images/Leomon.jpeg",
         day: 24,
         month: 6,
         year: 1999,
@@ -192,7 +212,7 @@ let Data = [
     {
         id: "34",
         name: "Malavika M",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Malavika.jpeg?raw=true",
+        img: "images/Malavika.jpeg",
         day: 20,
         month: 1,
         year: 2000,
@@ -202,7 +222,7 @@ let Data = [
     {
         id: "35",
         name: "Megha Manoj",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Megha.jpeg?raw=true",
+        img: "images/Megha.jpeg",
         day: 27,
         month: 12,
         year: 2000,
@@ -212,7 +232,7 @@ let Data = [
     {
         id: "36",
         name: "Melvin Thomas",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Melvin.jpeg?raw=true",
+        img: "images/Melvin.jpeg",
         day: 30,
         month: 10,
         year: 1999,
@@ -220,9 +240,19 @@ let Data = [
         whtsp: "https://wa.me/917902968636"
     },
     {
+        id: "37",
+        name: "Merin S",
+        img: "images/Merin.jpeg",
+        day: 12,
+        month: 2,
+        year: 2000,
+        insta: "",
+        whtsp: "https://wa.me/919778408607"
+    },
+    {
         id: "39",
         name: "N Nahas",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Nahas.jpeg?raw=true",
+        img: "images/Nahas.jpeg",
         day: 13,
         month: 12,
         year: 2000,
@@ -232,7 +262,7 @@ let Data = [
     {
         id: "40",
         name: "Nandana Suresh",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Nandana.jpeg?raw=true",
+        img: "images/Nandana.jpeg",
         day: 23,
         month: 5,
         year: 2000,
@@ -242,7 +272,7 @@ let Data = [
     {
         id: "44",
         name: "Printo P Varghese",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Printo.jpeg?raw=true",
+        img: "images/Printo.jpeg",
         day: 11,
         month: 10,
         year: 2000,
@@ -252,7 +282,7 @@ let Data = [
     {
         id: "48",
         name: "Rohan Jacob George",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Rohan.jpeg?raw=true",
+        img: "images/Rohan.jpeg",
         day: 9,
         month: 6,
         year: 2000,
@@ -262,7 +292,7 @@ let Data = [
     {
         id: "51",
         name: "Sambhu Muralidharan",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Sambhu.jpeg?raw=true",
+        img: "images/Sambhu.jpeg",
         day: 22,
         month: 10,
         year: 1996,
@@ -272,7 +302,7 @@ let Data = [
     {
         id: "52",
         name: "Sandhra Murali M",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Sandhra.jpeg?raw=true",
+        img: "images/Sandhra.jpeg",
         day: 10,
         month: 11,
         year: 2000,
@@ -280,9 +310,19 @@ let Data = [
         whtsp: "https://wa.me/918606578487"
     },
     {
+        id: "54",
+        name: "Sarath S Nair",
+        img: "images/Sarath.jpeg",
+        day: 12,
+        month: 1,
+        year: 2000,
+        insta: "https://www.instagram.com/sarathsn_/",
+        whtsp: "https://wa.me/918606369881"
+    },
+    {
         id: "55",
         name: "Shani Anna Monachan",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Shani.jpeg?raw=true",
+        img: "images/Shani.jpeg",
         day: 20,
         month: 11,
         year: 1998,
@@ -290,9 +330,19 @@ let Data = [
         whtsp: "https://wa.me/919188556928"
     },
     {
+        id: "003",
+        name: "Sonu Yohannan",
+        img: "images/Sonu.jpg",
+        day: 3,
+        month: 9,
+        year: 2000,
+        insta: "https://www.instagram.com/snype_93/",
+        whtsp: "https://wa.me/919495004796"
+    },
+    {
         id: "56",
         name: "Sredha prasad",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Sredha.jpeg?raw=true",
+        img: "images/Sredha.jpeg",
         day: 17,
         month: 11,
         year: 1999,
@@ -300,9 +350,19 @@ let Data = [
         whtsp: "https://wa.me/916238738546"
     },
     {
+        id: "57",
+        name: "Sreelakshmi S",
+        img: "images/Sreelakshmi.jpeg",
+        day: 28,
+        month: 2,
+        year: 2000,
+        insta: "https://www.instagram.com/sreelakshmi_s_kumar/",
+        whtsp: "https://wa.me/916282599447"
+    },
+    {
         id: "58",
         name: "Sreenath N",
-        img: "https://github.com/hello-world-ttj/MCA/blob/main/Sreenath.jpeg?raw=true",
+        img: "images/Sreenath.jpeg",
         day: 28,
         month: 4,
         year: 2000,
