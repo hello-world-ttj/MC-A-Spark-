@@ -50,6 +50,16 @@ let Data = [
         whtsp: "https://wa.me/917909192123"
     },
     {
+        id: "6",
+        name: "Aleena Susan Biju",
+        img: "https://github.com/hello-world-ttj/MCA/blob/main/Aleena.jpeg?raw=true",
+        day: 20,
+        month: 3,
+        year: 2001,
+        insta: "",
+        whtsp: "https://wa.me/918714339877"
+    },
+    {
         id: "8",
         name: "Amala Joseph",
         img: "https://github.com/hello-world-ttj/MCA/blob/main/Amala.jpeg?raw=true",
@@ -128,6 +138,16 @@ let Data = [
         year: 2000,
         insta: "https://www.instagram.com/_itz__billy__/",
         whtsp: "https://wa.me/919207211929"
+    },
+    {
+        id: "21",
+        name: "Devi Babu",
+        img: "https://github.com/hello-world-ttj/MCA/blob/main/Devi.jpeg?raw=true",
+        day: 7,
+        month: 10,
+        year: 2000,
+        insta: "https://www.instagram.com/devooty_devuzz/",
+        whtsp: "https://wa.me/918606305220"
     },
     {
         id: "22",
@@ -248,6 +268,16 @@ let Data = [
         year: 1998,
         insta: "https://www.instagram.com/___shaniannamonachan___/",
         whtsp: "https://wa.me/919188556928"
+    },
+    {
+        id: "56",
+        name: "Sredha prasad",
+        img: "https://github.com/hello-world-ttj/MCA/blob/main/Sredha.jpeg?raw=true",
+        day: 17,
+        month: 11,
+        year: 1999,
+        insta: "https://www.instagram.com/sredha_prasad/",
+        whtsp: "https://wa.me/916238738546"
     },
     {
         id: "58",
