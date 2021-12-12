@@ -280,6 +280,16 @@ let Data = [
         whtsp: "https://wa.me/917012175260"
     },
     {
+        id: "47",
+        name: "Reshmi Sivanandan",
+        img: "images/Reshmi.jpeg",
+        day: 22,
+        month: 9,
+        year: 1998,
+        insta: "https://www.instagram.com/reshmi_sivanandan/",
+        whtsp: "https://wa.me/917025109713"
+    },
+    {
         id: "48",
         name: "Rohan Jacob George",
         img: "images/Rohan.jpeg",
