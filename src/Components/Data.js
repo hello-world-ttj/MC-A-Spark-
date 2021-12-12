@@ -281,8 +281,8 @@ let Data = [
     },
     {
         id: "47",
-        name: "Reshmi Sivanandan",
-        img: "images/Reshmi.jpeg",
+        name: "Resmi Sivanandan",
+        img: "images/Resmi.jpeg",
         day: 22,
         month: 9,
         year: 1998,
