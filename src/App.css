@@ -33,6 +33,14 @@ body {
   text-align: center;
 }
 
+.Name {
+  font-size: 15px;
+}
+
+.Txt {
+  font-size: 13px;
+}
+
 .Bday--card {
   margin: 20px;
   text-align: center;

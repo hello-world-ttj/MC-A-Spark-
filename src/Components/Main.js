@@ -12,7 +12,7 @@ function Main(props) {
                 </div>
                 <div className="Container">
                     <h3 className="Name">{props.name}</h3>
-                    <p>Text me...!</p>
+                    <p className="Txt">Text me...!</p>
                     <a href={props.insta}><RiInstagramFill className="Icon Insta"/></a>
                     <a href={props.whtsp}><RiWhatsappFill className="Icon Whtsp"/></a>
                 </div>
