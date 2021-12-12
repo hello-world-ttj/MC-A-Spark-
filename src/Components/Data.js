@@ -1,5 +1,15 @@
 let Data = [
     {
+        id: "001",
+        name: "Abhimanyu RK",
+        img: "https://github.com/hello-world-ttj/MCA/blob/main/Abhimanyu.jpeg?raw=true",
+        day: 28,
+        month: 7,
+        year: 1998,
+        insta: "https://www.instagram.com/abhimanyu_rk__/",
+        whtsp: "https://wa.me/919645023075"
+    },
+    {
         id: "1",
         name: "Adithyan S",
         img: "https://github.com/hello-world-ttj/MCA/blob/main/Adithyan.jpeg?raw=true",
@@ -238,6 +248,16 @@ let Data = [
         year: 2000,
         insta: "https://www.instagram.com/mr_printo_007/",
         whtsp: "https://wa.me/917012175260"
+    },
+    {
+        id: "48",
+        name: "Rohan Jacob George",
+        img: "https://github.com/hello-world-ttj/MCA/blob/main/Rohan.jpeg?raw=true",
+        day: 9,
+        month: 6,
+        year: 2000,
+        insta: "https://www.instagram.com/rohan_6663_/",
+        whtsp: "https://wa.me/916282632859"
     },
     {
         id: "51",
