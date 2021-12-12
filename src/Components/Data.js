@@ -40,6 +40,16 @@ let Data = [
         whtsp: "https://wa.me/919605274910"
     },
     {
+        id: "5",
+        name: "Akhila A",
+        img: "https://github.com/hello-world-ttj/MCA/blob/main/Akhila.jpeg?raw=true",
+        day: 9,
+        month: 11,
+        year: 1999,
+        insta: "https://www.instagram.com/akhila.anil_/",
+        whtsp: "https://wa.me/917909192123"
+    },
+    {
         id: "8",
         name: "Amala Joseph",
         img: "https://github.com/hello-world-ttj/MCA/blob/main/Amala.jpeg?raw=true",
@@ -120,6 +130,36 @@ let Data = [
         whtsp: "https://wa.me/919207211929"
     },
     {
+        id: "22",
+        name: "Devika S Nair",
+        img: "https://github.com/hello-world-ttj/MCA/blob/main/devika.jpeg?raw=true",
+        day: 1,
+        month: 8,
+        year: 2000,
+        insta: "https://www.instagram.com/devika_mampara/",
+        whtsp: "https://wa.me/917558989603"
+    },
+    {
+        id: "29",
+        name: "Joel Reji Simon",
+        img: "https://github.com/hello-world-ttj/MCA/blob/main/Joel.jpeg?raw=true",
+        day: 1,
+        month: 5,
+        year: 1998,
+        insta: "https://www.instagram.com/_.joel._rj/",
+        whtsp: "https://wa.me/919895566812"
+    },
+    {
+        id: "32",
+        name: "Leomon T Benson",
+        img: "https://github.com/hello-world-ttj/MCA/blob/main/Leomon.jpeg?raw=true",
+        day: 24,
+        month: 6,
+        year: 1999,
+        insta: "https://www.instagram.com/leo_t_benson/",
+        whtsp: "https://wa.me/919207204294"
+    },
+    {
         id: "34",
         name: "Malavika M",
         img: "https://github.com/hello-world-ttj/MCA/blob/main/Malavika.jpeg?raw=true",
@@ -198,6 +238,16 @@ let Data = [
         year: 2000,
         insta: "https://www.instagram.com/lime_.lght/",
         whtsp: "https://wa.me/918606578487"
+    },
+    {
+        id: "55",
+        name: "Shani Anna Monachan",
+        img: "https://github.com/hello-world-ttj/MCA/blob/main/Shani.jpeg?raw=true",
+        day: 20,
+        month: 11,
+        year: 1998,
+        insta: "https://www.instagram.com/___shaniannamonachan___/",
+        whtsp: "https://wa.me/919188556928"
     },
     {
         id: "58",
