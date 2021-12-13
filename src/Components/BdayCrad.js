@@ -14,8 +14,8 @@ function BdayCrad(props) {
                 </div>
                 <div className="Container">
                     <p className="box">Wish me...!</p>
-                    <a href={props.insta}><RiInstagramFill className="Icon Insta"/></a>
-                    <a href={props.whtsp}><RiWhatsappFill className="Icon Whtsp"/></a>
+                    <a href={props.insta}><RiInstagramFill className="Icon Insta" /></a>
+                    <a href={props.whtsp}><RiWhatsappFill className="Icon Whtsp" /></a>
                 </div>
             </div>
         </div>

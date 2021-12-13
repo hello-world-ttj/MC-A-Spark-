@@ -180,6 +180,16 @@ let Data = [
         whtsp: "https://wa.me/919447005782"
     },
     {
+        id: "28",
+        name: "Jithin James",
+        img: "images/Jithin.jpeg",
+        day: 26,
+        month: 7,
+        year: 1998,
+        insta: "https://www.instagram.com/jithin_sree139_jian/",
+        whtsp: "https://wa.me/919847755716"
+    },
+    {
         id: "29",
         name: "Joel Reji Simon",
         img: "images/Joel.jpeg",
@@ -253,8 +263,8 @@ let Data = [
         id: "39",
         name: "N Nahas",
         img: "images/Nahas.jpeg",
-        day: 13,
-        month: 12,
+        day: 8,
+        month: 4,
         year: 2000,
         insta: "https://www.instagram.com/_i_am_nahas/",
         whtsp: "https://wa.me/917025094262"
@@ -278,6 +288,16 @@ let Data = [
         year: 2000,
         insta: "https://www.instagram.com/mr_printo_007/",
         whtsp: "https://wa.me/917012175260"
+    },
+    {
+        id: "45",
+        name: "Rajasree S",
+        img: "images/Rajasree.jpeg",
+        day: 17,
+        month: 6,
+        year: 1999,
+        insta: "",
+        whtsp: "https://wa.me/918330828773"
     },
     {
         id: "47",
@@ -384,7 +404,7 @@ let Data = [
         name: "Tijo T Joseph",
         img: "https://github.com/hello-world-ttj/MyProfile/blob/main/ttj.jpg?raw=true",
         day: 12,
-        month: 3,
+        month: 12,
         year: 2000,
         insta: "https://www.instagram.com/hello_world.ttj/",
         whtsp: "https://wa.me/918281977675"
