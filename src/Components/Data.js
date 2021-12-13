@@ -253,8 +253,8 @@ let Data = [
         id: "39",
         name: "N Nahas",
         img: "images/Nahas.jpeg",
-        day: 13,
-        month: 12,
+        day: 8,
+        month: 4,
         year: 2000,
         insta: "https://www.instagram.com/_i_am_nahas/",
         whtsp: "https://wa.me/917025094262"
