@@ -340,6 +340,16 @@ let Data = [
         whtsp: "https://wa.me/918606578487"
     },
     {
+        id: "53",
+        name: "Santo Saji Chacko ",
+        img: "images/Santo.jpeg",
+        day: 14,
+        month: 1,
+        year: 1998,
+        insta: "https://www.instagram.com/_chackochan__/",
+        whtsp: "https://wa.me/919747136071"
+    },
+    {
         id: "54",
         name: "Sarath S Nair",
         img: "images/Sarath.jpeg",
