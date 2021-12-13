@@ -296,7 +296,7 @@ let Data = [
         day: 17,
         month: 6,
         year: 1999,
-        insta: "",
+        insta: "https://www.instagram.com/r___.__e/",
         whtsp: "https://wa.me/918330828773"
     },
     {
