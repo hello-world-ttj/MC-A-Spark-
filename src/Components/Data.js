@@ -80,7 +80,7 @@ let Data = [
         whtsp: "https://wa.me/917902408329"
     },
     {
-        id: "002",
+        id: "008",
         name: "Ameer Shaji",
         img: "images/Ameer.jpeg",
         day: 17,
@@ -198,6 +198,16 @@ let Data = [
         year: 1998,
         insta: "https://www.instagram.com/_.joel._rj/",
         whtsp: "https://wa.me/919895566812"
+    },
+    {
+        id: "0029",
+        name: "Kelvin Mathew",
+        img: "images/Kelvin.jpeg",
+        day: 29,
+        month: 1,
+        year: 2000,
+        insta: "https://www.instagram.com/kel_vin._/",
+        whtsp: "https://wa.me/916238253297"
     },
     {
         id: "31",
@@ -370,7 +380,7 @@ let Data = [
         whtsp: "https://wa.me/919188556928"
     },
     {
-        id: "003",
+        id: "0055",
         name: "Sonu Yohannan",
         img: "images/Sonu.jpg",
         day: 3,
