@@ -170,6 +170,16 @@ let Data = [
         whtsp: "https://wa.me/917558989603"
     },
     {
+        id: "24",
+        name: "Greeshma S",
+        img: "images/Greeshma.jpeg",
+        day: 30,
+        month: 4,
+        year: 1999,
+        insta: "https://www.instagram.com/p__aa_thu_u_______/",
+        whtsp: "https://wa.me/917994396004"
+    },
+    {
         id: "25",
         name: "Harish S Nair",
         img: "images/Harish.jpeg",
@@ -208,6 +218,16 @@ let Data = [
         year: 2000,
         insta: "https://www.instagram.com/kel_vin._/",
         whtsp: "https://wa.me/916238253297"
+    },
+    {
+        id: "0030",
+        name: "Kebin B Jacob",
+        img: "images/Kebin.jpeg",
+        day: 26,
+        month: 5,
+        year: 1998,
+        insta: "https://www.instagram.com/its__me__kebin/",
+        whtsp: "https://wa.me/919544248794"
     },
     {
         id: "31",

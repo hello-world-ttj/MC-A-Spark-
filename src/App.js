@@ -5,7 +5,9 @@ import Main from './Components/Main'
 import BdayCrad from './Components/BdayCrad'
 import Footer from './Components/Footer'
 
+
 function App() {
+
   const studentDatas = Data.map(data => {
     return (
         <Main
